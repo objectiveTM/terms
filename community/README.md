@@ -1,6 +1,6 @@
 | 순서 |
 | --- |
-|[1. 목적](https://github.com/5-23/objective/blob/main/terms.md#1-목적)|
+|[1. 목적](https://github.com/objectiveTM/terms/edit/main/community/README.md#1-목적)|
 |[2. 정의](https://github.com/5-23/objective/blob/main/terms.md#2-정의)|
 |[3. 규약의 개정](https://github.com/5-23/objective/blob/main/terms.md#3-규약의-개정)|
 |[4. 규약의 적용 대상](https://github.com/5-23/objective/blob/main/terms.md#4-규약의-적용-대상)|
