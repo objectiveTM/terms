@@ -4,7 +4,7 @@
 |[2. 정의](https://github.com/objectiveTM/terms/edit/main/community.md#2-정의)|
 |[3. 규약의 개정](https://github.com/objectiveTM/terms/edit/main/community.md#3-규약의-개정)|
 |[4. 규약의 적용 대상](https://github.com/objectiveTM/terms/edit/main/community.md#4-규약의-적용-대상)|
-|[5. 관리자의 책임](https://github.com/objectiveTM/terms/edit/main/community.md#5-관리자의-책임)|
+|[5. 관리자의 책임과 권한](https://github.com/objectiveTM/terms/edit/main/community.md#5-관리자의-책임과-)|
 |[6. 제재체계](https://github.com/objectiveTM/terms/edit/main/community.md#6-제재체계)|
 |[7. 블법행위 등의 금지](https://github.com/objectiveTM/terms/edit/main/community.md#7-불법행위-등의-금지)|
 |[8. 링크 부정사용 금지](https://github.com/objectiveTM/terms/edit/main/community.md#8-링크-부정사용-금지)|
@@ -36,7 +36,7 @@
 ① 관리자는 본 규약의 목적을 달성하기 위해 노력하여야 하며 정당한 사유없이 특정 사용자에게 부당한 처벌을 가하거나 규약 위반 사실을 고의로 누락해서는 아니된다.</br>
 ② 전 항에도 불구하고 정당한 사유 없이 특정 사용자에게 부당한 처벌을 가한 경우 수석 관리자는 해당 관리자의 권한을 박탈할 수 있다.</br>
 ③ 관리자가 정당한 사유없이 서버를 임의로 변형할 경우 수석 관리자 또는 타 관리자는 해당 관리자를 `차단` 처분 할 수 있다.</br>
-④ 관리자는 증거 없이 사용자를 제재할 수 없다. 다만, 위약 행위가 의심될 경우 구두 경고를 할 수 있다.</br>
+④ 관리자는 증거 없이 사용자를 제재할 수 없다. 다만, 위약 행위가 의심될 경우 `구두 경고`를 할 수 있다.</br>
 ⑤ 관리자는 본 규약에서 규정한 행위 외에도 사용자의 무질서 행위에 대해서는 `서면경고` 또는 ` 2시간 이하의 타임아웃` 처분을 할 수 있다.</br>
 ⑥ 관리자는 본 규약에서 규정한 행위 외에도 서버에 심각한 피해를 주는 행위에 대해서는 수석 관리자의 승인 하에 `차단` 처분을 할 수 있다.
 
