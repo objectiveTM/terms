@@ -1,15 +1,15 @@
 | 순서 |
 | --- |
-|[1. 목적](https://github.com/objectiveTM/terms/edit/main/community.md#1-목적)|
-|[2. 정의](https://github.com/objectiveTM/terms/edit/main/community.md#2-정의)|
-|[3. 규약의 개정](https://github.com/objectiveTM/terms/edit/main/community.md#3-규약의-개정)|
-|[4. 규약의 적용 대상](https://github.com/objectiveTM/terms/edit/main/community.md#4-규약의-적용-대상)|
-|[5. 관리자의 책임과 권한](https://github.com/objectiveTM/terms/edit/main/community.md#5-관리자의-책임과-)|
-|[6. 제재체계](https://github.com/objectiveTM/terms/edit/main/community.md#6-제재체계)|
-|[7. 블법행위 등의 금지](https://github.com/objectiveTM/terms/edit/main/community.md#7-불법행위-등의-금지)|
-|[8. 링크 부정사용 금지](https://github.com/objectiveTM/terms/edit/main/community.md#8-링크-부정사용-금지)|
-|[9. 선동, 선전 등의 금지](https://github.com/objectiveTM/terms/edit/main/community.md#9-선동-선전-등의-금지)|
-|[10. 기타 금지사항](https://github.com/objectiveTM/terms/edit/main/community.md#10-기타-금지사항)|
+|[1. 목적](https://github.com/objectiveTM/terms/main/community.md#1-목적)|
+|[2. 정의](https://github.com/objectiveTM/terms/main/community.md#2-정의)|
+|[3. 규약의 개정](https://github.com/objectiveTM/terms/main/community.md#3-규약의-개정)|
+|[4. 규약의 적용 대상](https://github.com/objectiveTM/terms/main/community.md#4-규약의-적용-대상)|
+|[5. 관리자의 책임과 권한](https://github.com/objectiveTM/terms/main/community.md#5-관리자의-책임과-)|
+|[6. 제재체계](https://github.com/objectiveTM/terms/main/community.md#6-제재체계)|
+|[7. 블법행위 등의 금지](https://github.com/objectiveTM/terms/main/community.md#7-불법행위-등의-금지)|
+|[8. 링크 부정사용 금지](https://github.com/objectiveTM/terms/main/community.md#8-링크-부정사용-금지)|
+|[9. 선동, 선전 등의 금지](https://github.com/objectiveTM/terms/main/community.md#9-선동-선전-등의-금지)|
+|[10. 기타 금지사항](https://github.com/objectiveTM/terms/main/community.md#10-기타-금지사항)|
 
 # 1. 목적
 본 규약의 목적은 objective 커뮤니티 내 무질서 행위를 예방하고 이용자의 안전한 이용을 장려하기 위함으로 한다.
