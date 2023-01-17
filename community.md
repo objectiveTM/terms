@@ -1,7 +1,7 @@
 | 순서 |
 | --- |
 |[1. 목적](https://github.com/objectiveTM/terms/blob/main/community.md#1-목적)|
-|[2. 정의](https://github.com/objectiveTM/terms/blob/main/community.md#2-정의)|
+|[2. 정의](#2-정의)|
 |[3. 규약의 개정](https://github.com/objectiveTM/terms/blob/main/community.md#3-규약의-개정)|
 |[4. 규약의 적용 대상](https://github.com/objectiveTM/terms/blob/main/community.md#4-규약의-적용-대상)|
 |[5. 관리자의 책임과 권한](https://github.com/objectiveTM/terms/blob/main/community.md#5-관리자의-책임과-권한)|
